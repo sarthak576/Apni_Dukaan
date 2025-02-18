@@ -1,0 +1,20 @@
+
+.hero-section{
+  background-color:#72973B !important;
+}
+  
+  .hero-section {
+    background-color: #0b0c0c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+  }
+  
+  .hero-content h2 {
+    font-size: 2.5rem;
+    color: #F2EFE7;
+    font-weight: bold;
+  }
+  
