@@ -1,10 +1,10 @@
 import React from 'react';
 import { Navbar, Container, Nav } from 'react-bootstrap';
-
+import "../images/logo1.png"
 const NavbarComponent = () => (
   <Navbar bg="dark" variant="dark" expand="lg">
     <Container>
-      <Navbar.Brand href="#">Dukaan</Navbar.Brand>
+      <Navbar.Brand href="#"><img src="" alt='noDukaan'/> </Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="me-auto">
