@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Apni_Dukaan/static/css/main.388a3fe0.css",
+    "main.js": "/Apni_Dukaan/static/js/main.8d282144.js",
+    "static/media/logo1.png": "/Apni_Dukaan/static/media/logo1.e30223ae408427acbb84.png",
+    "index.html": "/Apni_Dukaan/index.html",
+    "main.388a3fe0.css.map": "/Apni_Dukaan/static/css/main.388a3fe0.css.map",
+    "main.8d282144.js.map": "/Apni_Dukaan/static/js/main.8d282144.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.388a3fe0.css",
+    "static/js/main.8d282144.js"
+  ]
+}
